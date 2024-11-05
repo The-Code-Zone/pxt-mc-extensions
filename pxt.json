@@ -7,7 +7,8 @@
     },
     "files": [
         "entities.ts",
-        "display.ts"
+        "display.ts",
+        "positions2.ts"
     ],
     "testFiles": [],
     "public": true,
